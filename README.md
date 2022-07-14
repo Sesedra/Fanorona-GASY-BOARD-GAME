@@ -15,4 +15,8 @@
 It's a game between 2 players, the first player to align up 3 pawns win.
 The game board is initially empty, the players laying down their pawns one by one, then moving them from one intersection to another in an attempt to form an alignment.
 
+
 ` Run fanorona.html in your localhost to start ` 
+
+
+#### Due to some issues, the algorithm doesn't work
