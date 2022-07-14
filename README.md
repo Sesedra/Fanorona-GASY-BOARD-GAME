@@ -19,4 +19,4 @@ The game board is initially empty, the players laying down their pawns one by on
 ` Run fanorona.html in your localhost to start ` 
 
 
-#### Due to some issues, the algorithm doesn't work
+#### Due to some issues, the algorithm doesn't work, play cool and follow the rules
