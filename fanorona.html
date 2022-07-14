@@ -168,11 +168,11 @@
                 jeton.userData.draggable = true;
             }
 
-            function tester(){
+            function test(){
                 for(let i=0; i<3; i++){
                     for(let j=0; j<3; j++){
                         if(table[i][0] && table[i][1] && table[i][2] || table[0][j] && table[1][j] && table[2][j] === "1" || "2"){
-                            alert("FIN");
+                            alert("A player won");
                             break;
                         }
                     }
